@@ -7,16 +7,12 @@ h1{
 .inner{
     width: 100%;
     border: 5px solid grey;
-
 }
-
-
-
-.inner img{
+img{
     display: none;
     width: 100%;
 }
-.inner img.active{
+.active{
     display: inline-block;
 }
 .outer{
